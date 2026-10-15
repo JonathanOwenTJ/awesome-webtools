@@ -5,6 +5,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 
 ## File Transformation & Size Modification
 - Reduse file sizes of JPEG, PNG, SVG, GIF and WEBP files with [Compressor](https://compressor.io/)
+- Try basic image compression without sign-in at [AI Lab](https://ailab.packscena.com/), a Chinese utility hub; complete tools require sign-in and points.
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
