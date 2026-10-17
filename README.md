@@ -22,6 +22,11 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - A bit more experimental: [Gratisography](https://gratisography.com)
 - Focusing on tech and software topics: [Startupstockphotos](https://startupstockphotos.com/)
 
+## AI image ideation
+- Create nail-art reference images with [NailMoodLab](https://nailmoodlab.com/); AI actions require an account and allowance (Free plan: 5 actions/month). Treat previews as design references, not guaranteed manicure results.
+- Explore product-photo scenes with [PackScena](https://packscena.com/); the free invitation trial needs a workspace invitation code and remaining allowance. Check generated product details against the original photograph.
+- Preview hairstyles, outfits and portrait settings with [LookScene](https://lookscene.packscena.com/); the free invitation trial requires an account and credits. AI illustrations do not guarantee likeness, garment fit or a real-world styling result.
+
 ## All things code
 
 ### Displaying source code
