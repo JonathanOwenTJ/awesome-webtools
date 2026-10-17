@@ -9,6 +9,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
+- Adjust food-photo lighting, color and crop and export JPEG with [DishVivid](https://dishvivid.com/studio); manual edits need no account, optional AI needs sign-in and available edits.
 
 ## Icons
 - Quite unique icons, featuring an online SVG editor: [game-icons.net](https://game-icons.net/)
@@ -42,6 +43,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Gradient color suggestions on [eggradients](https://www.eggradients.com/)
 - Create tints and shades for `#hex` color codes via  [maketintsandshades.com](https://maketintsandshades.com/)
 - Generate neumorphism effects via [neumorphism.io](https://neumorphism.io/)
+- Explore random colors, HEX/RGB labels and brightness controls with [LogoMovo](https://logomovo.com/random-color-generator); this manual tool needs no account or AI plan request.
 
 ## SVG Backgrounds
 - [repper.app](https://repper.app/design/)
