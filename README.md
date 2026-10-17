@@ -68,6 +68,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Reference of HTML and keyboard shortcuts for special characters via [key-shortcut.com](https://www.key-shortcut.com/en/all-html-entities/all-entities)
 - Generate a HTTP response to test (frontend) code with [httpstat.us](https://httpstat.us/)
 - It "lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats" - [mockaroo](https://www.mockaroo.com/)
+- Structure an English or Chinese resume with local editing, JSON backup and a PDF workflow in [ResumePlot](https://resumeplot.com/en/builder); core editing is free, with 3 PDF exports/month on the Free tier. Optional AI requires sign-in and an available allowance.
 
 ## Website Speed Testing
 - Perhaps your first stop: [Google's Lighthouse](https://developers.google.com/web/tools/lighthouse)
