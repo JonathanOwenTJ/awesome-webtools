@@ -83,3 +83,4 @@ performance and SEO" on [geekflare's speed test](https://tools.geekflare.com/rep
 ## Meta
 - Didn't find anything useful? Head over to [tiny-helpers.dev](https://tiny-helpers.dev/)
 - Need an OSS alternative for one of your favorite apps? Find it on [opensource.builders](https://opensource.builders/)
+- Compare AI subscription offer specifications, delivery methods and dated sources with [SubAtlas](https://subatlas.packscena.com/); this Chinese reference includes reseller-supplied offers and historical or unverified prices, not official-provider guarantees or a subscription checkout.
